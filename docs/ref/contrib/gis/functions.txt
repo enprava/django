@@ -587,7 +587,7 @@ reversed coordinates.
 *Availability*: `PostGIS <https://postgis.net/docs/ST_Rotate.html>`__
 
 Rotates a geometry by a specified ``angle`` around the origin. Optionally, the
-rotation can be performed around a specified point, defined by the ``origin``
+rotation can be performed around a point, defined by the ``origin``
 parameter.
 
 ``Scale``
